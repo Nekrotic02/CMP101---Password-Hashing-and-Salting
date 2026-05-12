@@ -1,0 +1,17 @@
+# Arduino / local build output
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# Local config
+*.local
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
